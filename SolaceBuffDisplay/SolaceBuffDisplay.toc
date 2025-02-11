@@ -2,7 +2,7 @@
 ## Title: SolaceBuffDisplay
 ## Notes: Configurable buff and debuff display for the default Party Frames, and other options.
 ## Version: 8.0.1
-## Author: Hallithron
+## Author: Hallithron, modified by Macumba
 ## SavedVariables: SolacePartyBuffsOptions, SolaceTargetFrameOptions, SolaceLibOptions
 ## OptionalDeps: SolaceLib
 ## X-Compatible-With: 20500
