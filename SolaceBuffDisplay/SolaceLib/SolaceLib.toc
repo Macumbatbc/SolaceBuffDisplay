@@ -1,0 +1,7 @@
+## Interface: 70200
+## Title: Lib: SolaceLib
+## Notes: Common functions for Solace mods.
+## Version: 7.2.0
+## Author: Hallithron
+
+SolaceLib.lua

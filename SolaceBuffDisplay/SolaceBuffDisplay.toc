@@ -1,0 +1,11 @@
+## Interface: 20502
+## Title: SolaceBuffDisplay
+## Notes: Configurable buff and debuff display for the default Party Frames, and other options.
+## Version: 8.0.1
+## Author: Hallithron
+## SavedVariables: SolacePartyBuffsOptions, SolaceTargetFrameOptions, SolaceLibOptions
+## OptionalDeps: SolaceLib
+## X-Compatible-With: 20500
+
+SolaceLib/SolaceLib.lua
+SolaceBuffDisplay.xml
